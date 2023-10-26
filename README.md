@@ -45,8 +45,10 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![image](https://github.com/SriSaiPriyaSenthilvel/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119475702/81700605-6589-4c9e-8280-92a43e205bcd)
+
+### Name: Sri Sai Priya S
+### Register Number: 212222240103
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
